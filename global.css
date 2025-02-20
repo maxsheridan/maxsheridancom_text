@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'MD-IO';
-    src: url(/assets/type/MD_IO.woff2) format('woff2');
+    src: url(assets/type/MD_IO.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap
